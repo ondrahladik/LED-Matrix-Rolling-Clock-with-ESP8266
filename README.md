@@ -17,14 +17,6 @@ ESP8266 ----- Max7219 <br>
   D5 = LED to GND - for Humity Warning (Optional) <br> 
 <br>
 <br>
-# Settings in the Arduino IDE (Menu Item “Tools”) <br>
-# For ESP8266 (Wemos/LOLIN D1 Mini)
-
-![grafik](https://github.com/user-attachments/assets/cf63eb2f-9dc9-4c2e-aa97-f560f226a1eb)
-
-**Attention: All settings on the ESP8266 will be lost !!!**
-<br>
-<br>
 # Installation: 
 When the clock is switched on for the first time, an access point is started. (SSID: LED-Matrix-Clock)  <br>
 In the captive portal (standard IP: 192.168.4.1) where you can select your own WLAN.  <br>
