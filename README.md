@@ -1,6 +1,8 @@
 # LED-Matrix-Rolling-Clock-with-ESP8266
 LED-Matrix-Rolling-Clock with ESP8266 (WEMOS D1 mini)
 
+This is a modified version that is completely translated into Czech.
+
 # Pinout:<br>
 ESP8266 ----- Max7219 <br>
   VCC ------------ VCC <br>
